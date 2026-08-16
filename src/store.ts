@@ -22,6 +22,7 @@ import {
   type Node, 
   type NodeChange,
 } from '@xyflow/react';
+import initialTree from '../assets/family-tree.json';
 
 interface TreeStore {
   nodes: Node[];
@@ -39,29 +40,18 @@ interface TreeStore {
   toggleDarkMode: () => void;
 }
 
-const initialMembers: FamilyMember[] = [
-  {
-    id: '1',
-    fullName: 'John Doe',
-    birthDate: '1950-01-01',
-    biography: 'The patriarch of the family.',
-  }
-];
-
-const initialNodes: Node[] = [
-  {
-    id: '1',
-    type: 'familyMember',
-    data: { label: 'John Doe', fullName: 'John Doe', id: '1', birthDate: '1950-01-01', biography: 'The patriarch of the family.' },
-    position: { x: 250, y: 50 },
-  }
-];
+const initialNodes = initialTree.nodes as Node[];
+const initialMembers = initialTree.members as FamilyMember[];
+const initialEdges = syncAllEdgeHandles(
+  (initialTree.edges as Edge[]).map(normalizeEdge),
+  initialNodes,
+);
 
 export const useTreeStore = create<TreeStore>()(
   persist(
     (set, get) => ({
       nodes: initialNodes,
-      edges: [],
+      edges: initialEdges,
       members: initialMembers,
       darkMode: false,
       layoutDirection: 'TB' as const,
@@ -199,7 +189,20 @@ export const useTreeStore = create<TreeStore>()(
     }),
     {
       name: 'family-tree-storage',
+      version: 1,
       storage: createJSONStorage(() => localStorage),
+      migrate: (persistedState, version) => {
+        const persisted = persistedState as Partial<TreeStore>;
+        if (version < 1) {
+          return {
+            ...persisted,
+            nodes: initialNodes,
+            edges: initialEdges,
+            members: initialMembers,
+          };
+        }
+        return persisted;
+      },
       onRehydrateStorage: () => (state) => {
         if (!state) return;
         try {

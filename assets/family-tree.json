@@ -1,0 +1,3865 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "type": "familyMember",
+      "data": {
+        "label": "John Doe",
+        "fullName": "NMM Naga Raju",
+        "id": "1",
+        "birthDate": "1964-04-07",
+        "biography": "The patriarch of the family."
+      },
+      "position": {
+        "x": 1551.8265302370207,
+        "y": 343.4688659618689
+      },
+      "measured": {
+        "width": 205,
+        "height": 146
+      },
+      "selected": false,
+      "targetPosition": "top",
+      "sourcePosition": "bottom",
+      "dragging": false
+    },
+    {
+      "id": "olqn9h1d0",
+      "type": "familyMember",
+      "data": {
+        "label": "Chaitanya Nakka",
+        "id": "olqn9h1d0",
+        "fullName": "Chaitanya Nakka",
+        "birthDate": "1993-03-24",
+        "biography": ""
+      },
+      "position": {
+        "x": 1486.4679907133532,
+        "y": 541.2782746581858
+      },
+      "measured": {
+        "width": 212,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false,
+      "targetPosition": "top",
+      "sourcePosition": "bottom"
+    },
+    {
+      "id": "4b7bih1it",
+      "type": "familyMember",
+      "data": {
+        "label": "Saroja Nakka",
+        "id": "4b7bih1it",
+        "fullName": "Saroja Nakka",
+        "birthDate": "2000-02-14",
+        "biography": ""
+      },
+      "position": {
+        "x": 1556.2594245180837,
+        "y": 848.3769369584315
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false,
+      "targetPosition": "top",
+      "sourcePosition": "bottom"
+    },
+    {
+      "id": "r6x2b7618",
+      "type": "familyMember",
+      "data": {
+        "label": "Rama Rani Vinnakota",
+        "id": "r6x2b7618",
+        "fullName": "Rama Rani Vinnakota",
+        "birthDate": "1964-10-24",
+        "biography": ""
+      },
+      "position": {
+        "x": 3216.6794434785347,
+        "y": 80.94791230462195
+      },
+      "measured": {
+        "width": 241,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false,
+      "targetPosition": "top",
+      "sourcePosition": "bottom"
+    },
+    {
+      "id": "3f0u2x1hp",
+      "type": "familyMember",
+      "data": {
+        "label": "Lakshmi Sowjanya Malisetti",
+        "id": "3f0u2x1hp",
+        "fullName": "Lakshmi Sowjanya Malisetti",
+        "birthDate": "1997-09-05",
+        "biography": ""
+      },
+      "position": {
+        "x": -699.3063713694164,
+        "y": 272.4920957928603
+      },
+      "measured": {
+        "width": 286,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false,
+      "targetPosition": "top",
+      "sourcePosition": "bottom"
+    },
+    {
+      "id": "ftafqvwii",
+      "type": "familyMember",
+      "data": {
+        "label": "Nageswara Rano Nakka",
+        "id": "ftafqvwii",
+        "fullName": "Nageswara Rano Nakka",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 1818.5737471521657,
+        "y": 87.91697589831725
+      },
+      "measured": {
+        "width": 258,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false,
+      "targetPosition": "top",
+      "sourcePosition": "bottom"
+    },
+    {
+      "id": "es55uacuj",
+      "type": "familyMember",
+      "data": {
+        "label": "Sarojini Nakka",
+        "id": "es55uacuj",
+        "fullName": "Sarojini Nakka",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 2174.704971635987,
+        "y": 84.40628087249591
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false,
+      "targetPosition": "top",
+      "sourcePosition": "bottom"
+    },
+    {
+      "id": "p34i2aogu",
+      "type": "familyMember",
+      "data": {
+        "label": "Satyanarayana Malisetti",
+        "id": "p34i2aogu",
+        "fullName": "Satyanarayana Malisetti",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": -669.7011843276352,
+        "y": 94.92735391102758
+      },
+      "measured": {
+        "width": 262,
+        "height": 112
+      },
+      "selected": false,
+      "targetPosition": "top",
+      "sourcePosition": "bottom",
+      "dragging": false
+    },
+    {
+      "id": "27suizmjn",
+      "type": "familyMember",
+      "data": {
+        "label": "Ganga Malisetti",
+        "id": "27suizmjn",
+        "fullName": "Ganga Malisetti",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 252.60462848992722,
+        "y": 91.79151597840934
+      },
+      "measured": {
+        "width": 204,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false,
+      "targetPosition": "top",
+      "sourcePosition": "bottom"
+    },
+    {
+      "id": "bvxd767id",
+      "type": "familyMember",
+      "data": {
+        "label": "Vyshnavi Malisetti",
+        "id": "bvxd767id",
+        "fullName": "Vyshnavi Malisetti",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": -628.6245282203708,
+        "y": 412.29512545416196
+      },
+      "measured": {
+        "width": 222,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false,
+      "targetPosition": "top",
+      "sourcePosition": "bottom"
+    },
+    {
+      "id": "i0kxo1h1k",
+      "type": "familyMember",
+      "data": {
+        "label": "Venkatrao Nakka",
+        "id": "i0kxo1h1k",
+        "fullName": "Venkatrao Nakka",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 1775.7026699697315,
+        "y": 444.24140903629007
+      },
+      "measured": {
+        "width": 213,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "fqmdqgilt",
+      "type": "familyMember",
+      "data": {
+        "label": "Surya Narayana Nakka",
+        "id": "fqmdqgilt",
+        "fullName": "Surya Narayana Nakka",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 2054.1643188194375,
+        "y": 439.1996323037899
+      },
+      "measured": {
+        "width": 252,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "a7hqvjcox",
+      "type": "familyMember",
+      "data": {
+        "label": "Padma Nakka",
+        "id": "a7hqvjcox",
+        "fullName": "Padma Nakka",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 2089.492335123153,
+        "y": 587.3820427351209
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "9vyztbkh8",
+      "type": "familyMember",
+      "data": {
+        "label": "Vamsi Nakka",
+        "id": "9vyztbkh8",
+        "fullName": "Vamsi Nakka",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 2090.790061849898,
+        "y": 740.241705365225
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "ju7tms0sa",
+      "type": "familyMember",
+      "data": {
+        "label": "Viswaja Nakka",
+        "id": "ju7tms0sa",
+        "fullName": "Viswaja Nakka",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 2337.652363098697,
+        "y": 612.4104363142984
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "ls9layekr",
+      "type": "familyMember",
+      "data": {
+        "label": "Devi",
+        "id": "ls9layekr",
+        "fullName": "Devi",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 1800.6316827080022,
+        "y": 722.007260121232
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "xqbxsb71i",
+      "type": "familyMember",
+      "data": {
+        "label": "Nagarjuna Nakka",
+        "id": "xqbxsb71i",
+        "fullName": "Nagarjuna Nakka",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 1780.378248127633,
+        "y": 850.9528883481108
+      },
+      "measured": {
+        "width": 214,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "ur01h4sfe",
+      "type": "familyMember",
+      "data": {
+        "label": "Tejaswini Nakka",
+        "id": "ur01h4sfe",
+        "fullName": "Tejaswini Nakka",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 1837.103497704029,
+        "y": 986.9780032850933
+      },
+      "measured": {
+        "width": 206,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "vkbsm60pf",
+      "type": "familyMember",
+      "data": {
+        "label": "Balakrishna Vinnakota",
+        "id": "vkbsm60pf",
+        "fullName": "Balakrishna Vinnakota",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 3960.247884170554,
+        "y": -152.84390021729726
+      },
+      "measured": {
+        "width": 250,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "55ihoucwz",
+      "type": "familyMember",
+      "data": {
+        "label": "Varalakshmi Vinnakota",
+        "id": "55ihoucwz",
+        "fullName": "Varalakshmi Vinnakota",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 4331.892722190332,
+        "y": -152.95480467764582
+      },
+      "measured": {
+        "width": 253,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "k8rs4at59",
+      "type": "familyMember",
+      "data": {
+        "label": "Narasimha Rao Malisetti",
+        "id": "k8rs4at59",
+        "fullName": "Narasimha Rao Malisetti",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": -881.8850875334758,
+        "y": -116.6868042287862
+      },
+      "measured": {
+        "width": 263,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "dce9d38gs",
+      "type": "familyMember",
+      "data": {
+        "label": "Sarojini Malisetti Adapa",
+        "id": "dce9d38gs",
+        "fullName": "Sarojini Malisetti Adapa",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": -519.2808848356424,
+        "y": -116.19718224149653
+      },
+      "measured": {
+        "width": 259,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "rwmnwhtw7",
+      "type": "familyMember",
+      "data": {
+        "label": "Krishna Rao Malisetti",
+        "id": "rwmnwhtw7",
+        "fullName": "Krishna Rao Malisetti",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": -1016.5569885195184,
+        "y": 92.92924476009296
+      },
+      "measured": {
+        "width": 242,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "z7lqwcafk",
+      "type": "familyMember",
+      "data": {
+        "label": "Chandasekhar Malisetti",
+        "id": "z7lqwcafk",
+        "fullName": "Chandasekhar Malisetti",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": -1032.2250220556812,
+        "y": 419.85189320560613
+      },
+      "measured": {
+        "width": 259,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "1askdfrhv",
+      "type": "familyMember",
+      "data": {
+        "label": "Sri Lekha Malisetti",
+        "id": "1askdfrhv",
+        "fullName": "Sri Lekha Malisetti",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": -967.5857996645509,
+        "y": 581.7688691039234
+      },
+      "measured": {
+        "width": 223,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "znzi5fmk4",
+      "type": "familyMember",
+      "data": {
+        "label": "Sarojini Malisetti Thota",
+        "id": "znzi5fmk4",
+        "fullName": "Sarojini Malisetti Thota",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": -998.2588840816653,
+        "y": 257.9877311382244
+      },
+      "measured": {
+        "width": 255,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "n238c9anj",
+      "type": "familyMember",
+      "data": {
+        "label": "Krishna Rao Adapa",
+        "id": "n238c9anj",
+        "fullName": "Krishna Rao Adapa",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 547.8072512189577,
+        "y": -148.46037879822399
+      },
+      "measured": {
+        "width": 226,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "h0g5804ny",
+      "type": "familyMember",
+      "data": {
+        "label": "Lakshmikantham",
+        "id": "h0g5804ny",
+        "fullName": "Lakshmikantham Giri",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 913.392174851627,
+        "y": -148.9430839495852
+      },
+      "measured": {
+        "width": 241,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "5u1adagrx",
+      "type": "familyMember",
+      "data": {
+        "label": "Jamalayya Adapa",
+        "id": "5u1adagrx",
+        "fullName": "Jamalayya Adapa",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 526.7359806902921,
+        "y": 81.55378876775308
+      },
+      "measured": {
+        "width": 217,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "melvgoyvc",
+      "type": "familyMember",
+      "data": {
+        "label": "Basava Maheswararao Adapa",
+        "id": "melvgoyvc",
+        "fullName": "Basava Maheswararao Adapa",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 789.521501616729,
+        "y": 78.70916787417585
+      },
+      "measured": {
+        "width": 297,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "oduif7lxu",
+      "type": "familyMember",
+      "data": {
+        "label": "Bala Adapa",
+        "id": "oduif7lxu",
+        "fullName": "Bala Raju Adapa",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 1136.9268947297464,
+        "y": 80.48591919459233
+      },
+      "measured": {
+        "width": 207,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "yuwvyrnlk",
+      "type": "familyMember",
+      "data": {
+        "label": "Baby Rani Vinnakota",
+        "id": "yuwvyrnlk",
+        "fullName": "Baby Rani Vinnakota",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 3476.6067283624784,
+        "y": 173.87965268086379
+      },
+      "measured": {
+        "width": 237,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "050ob35ak",
+      "type": "familyMember",
+      "data": {
+        "label": "Radha Rani Vinnakota",
+        "id": "050ob35ak",
+        "fullName": "Radha Rani Vinnakota",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 3805.912495190299,
+        "y": 103.55040440316438
+      },
+      "measured": {
+        "width": 246,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "8w33xidyq",
+      "type": "familyMember",
+      "data": {
+        "label": "Madhusudhan Rao Vinnakota",
+        "id": "8w33xidyq",
+        "fullName": "Madhusudhan Rao Vinnakota",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 4080.8603066102396,
+        "y": 98.340765219411
+      },
+      "measured": {
+        "width": 296,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "c9vzbez6j",
+      "type": "familyMember",
+      "data": {
+        "label": "Nanaji Vinnakota",
+        "id": "c9vzbez6j",
+        "fullName": "Nanaji Vinnakota",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 4419.309763291744,
+        "y": 96.6474908434987
+      },
+      "measured": {
+        "width": 212,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "tb99803ke",
+      "type": "familyMember",
+      "data": {
+        "label": "Ramu Vinnakota",
+        "id": "tb99803ke",
+        "fullName": "Ramu Vinnakota",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 4697.649934422689,
+        "y": 98.15786885620903
+      },
+      "measured": {
+        "width": 208,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "pd8gejhp2",
+      "type": "familyMember",
+      "data": {
+        "label": "Pedda Mavayya",
+        "id": "pd8gejhp2",
+        "fullName": "Pedda Mavayya",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 4932.302937732047,
+        "y": 96.85768081375278
+      },
+      "measured": {
+        "width": 203,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "7yqkc22om",
+      "type": "familyMember",
+      "data": {
+        "label": "Kasi Visweswara Rao Chikkala",
+        "id": "7yqkc22om",
+        "fullName": "Kasi Visweswara Rao Chikkala",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 6434.129414844472,
+        "y": -185.09908659304665
+      },
+      "measured": {
+        "width": 304,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "ahxfsw10x",
+      "type": "familyMember",
+      "data": {
+        "label": "Raghu Chikkala",
+        "id": "ahxfsw10x",
+        "fullName": "Raghu Chikkala",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 6261.946321395493,
+        "y": 8.85940135611196
+      },
+      "measured": {
+        "width": 203,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "zi3plaove",
+      "type": "familyMember",
+      "data": {
+        "label": "Sagar Chikkala",
+        "id": "zi3plaove",
+        "fullName": "Sagar Chikkala",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 6539.855875734196,
+        "y": 8.85940135611196
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "atavhk9ss",
+      "type": "familyMember",
+      "data": {
+        "label": "Srinivas Chikkala",
+        "id": "atavhk9ss",
+        "fullName": "Srinivas Chikkala",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 6795.109759882244,
+        "y": 4.328267317980938
+      },
+      "measured": {
+        "width": 214,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "4vopszsc6",
+      "type": "familyMember",
+      "data": {
+        "label": "Padma Pothula",
+        "id": "4vopszsc6",
+        "fullName": "Padma Pothula",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 6265.912230904265,
+        "y": 152.34531256359472
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "kd6w220o5",
+      "type": "familyMember",
+      "data": {
+        "label": "AnuRadha Melam",
+        "id": "kd6w220o5",
+        "fullName": "AnuRadha Melam",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 6524.186871077734,
+        "y": 159.89720262714644
+      },
+      "measured": {
+        "width": 216,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "ozrcgboja",
+      "type": "familyMember",
+      "data": {
+        "label": "Bharati",
+        "id": "ozrcgboja",
+        "fullName": "Bharati",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 6803.6068034291475,
+        "y": 152.34531256359472
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "4jk802rm6",
+      "type": "familyMember",
+      "data": {
+        "label": "Viswa Chikkala",
+        "id": "4jk802rm6",
+        "fullName": "Viswa Chikkala",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 6266.477455433624,
+        "y": 300.992460131443
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "0ddo31kek",
+      "type": "familyMember",
+      "data": {
+        "label": "Bharati Chikkala",
+        "id": "0ddo31kek",
+        "fullName": "Bharati Chikkala",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 6529.283229645224,
+        "y": 304.0132161568637
+      },
+      "measured": {
+        "width": 209,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "so9vxmnoh",
+      "type": "familyMember",
+      "data": {
+        "label": "Bhavyana Chikkala",
+        "id": "so9vxmnoh",
+        "fullName": "Bhavyana Chikkala",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 6258.925565370072,
+        "y": 452.0302614024775
+      },
+      "measured": {
+        "width": 226,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "997xfs9gy",
+      "type": "familyMember",
+      "data": {
+        "label": "Vishal Chikkala",
+        "id": "997xfs9gy",
+        "fullName": "Vishal Chikkala",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 6536.835119708775,
+        "y": 442.9679933262154
+      },
+      "measured": {
+        "width": 201,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "f46rgypah",
+      "type": "familyMember",
+      "data": {
+        "label": "Viswa Chikkala",
+        "id": "f46rgypah",
+        "fullName": "Viswa Chikkala",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 6804.172027958507,
+        "y": 300.992460131443
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "bifhvtfa4",
+      "type": "familyMember",
+      "data": {
+        "label": "Ayyappa Chikkala",
+        "id": "bifhvtfa4",
+        "fullName": "Ayyappa Chikkala",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 6799.640893920376,
+        "y": 441.4576153135051
+      },
+      "measured": {
+        "width": 218,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "b16o6nq57",
+      "type": "familyMember",
+      "data": {
+        "label": "Nagulu Velugu",
+        "id": "b16o6nq57",
+        "fullName": "Nagulu Velugu",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 552.2952923134576,
+        "y": 234.55007798794617
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "xicrxq8ti",
+      "type": "familyMember",
+      "data": {
+        "label": "Rajeswari Velugu",
+        "id": "xicrxq8ti",
+        "fullName": "Rajeswari Velugu",
+        "birthDate": "",
+        "biography": "",
+        "deathDate": "2026-08-17"
+      },
+      "position": {
+        "x": 831.6534593288668,
+        "y": 249.17432305623788
+      },
+      "measured": {
+        "width": 214,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "au81udpm6",
+      "type": "familyMember",
+      "data": {
+        "label": "Uma ",
+        "id": "au81udpm6",
+        "fullName": "Uma Yerra",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 848.6946683268568,
+        "y": 389.7910243138745
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "822m9469p",
+      "type": "familyMember",
+      "data": {
+        "label": "Balakumari Adapa",
+        "id": "822m9469p",
+        "fullName": "Balakumari Adapa",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 509.3086267792646,
+        "y": 394.66609151766346
+      },
+      "measured": {
+        "width": 221,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "3h44qu6s3",
+      "type": "familyMember",
+      "data": {
+        "label": "Rajini Adapa",
+        "id": "3h44qu6s3",
+        "fullName": "Rajini Adapa",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 602.9435409444989,
+        "y": 533.6623807378564
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "fm88zcmo4",
+      "type": "familyMember",
+      "data": {
+        "label": "Leela Kumari Adapa",
+        "id": "fm88zcmo4",
+        "fullName": "Leela Kumari Adapa",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 510.0457373552654,
+        "y": 674.5331545651984
+      },
+      "measured": {
+        "width": 232,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "cgvf1kpu2",
+      "type": "familyMember",
+      "data": {
+        "label": "Durga Rao Adapa",
+        "id": "cgvf1kpu2",
+        "fullName": "Durga Rao Adapa",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 573.7721209980945,
+        "y": 824.7453445804381
+      },
+      "measured": {
+        "width": 215,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "ccyot7qk4",
+      "type": "familyMember",
+      "data": {
+        "label": "Bala Kiran Adapa",
+        "id": "ccyot7qk4",
+        "fullName": "Bala Kiran Adapa",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 886.5809841533304,
+        "y": 539.6065183099228
+      },
+      "measured": {
+        "width": 213,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "izr680nrs",
+      "type": "familyMember",
+      "data": {
+        "label": "Krishnababu Adapa",
+        "id": "izr680nrs",
+        "fullName": "Krishnababu Adapa",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 842.6268213190864,
+        "y": 683.8268924607314
+      },
+      "measured": {
+        "width": 231,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "ejo8yu5pg",
+      "type": "familyMember",
+      "data": {
+        "label": "Ganga Guntupalli",
+        "id": "ejo8yu5pg",
+        "fullName": "Ganga Guntupalli",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 553.7217035532645,
+        "y": -348.1035369014468
+      },
+      "measured": {
+        "width": 215,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "o95s9a5ki",
+      "type": "familyMember",
+      "data": {
+        "label": "Malisetti Nagayya Malisetti",
+        "id": "o95s9a5ki",
+        "fullName": "Nagayya Malisetti",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": -1159.5500448343737,
+        "y": -340.9635218070067
+      },
+      "measured": {
+        "width": 219,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "q6cip9e38",
+      "type": "familyMember",
+      "data": {
+        "label": "Annapoorna",
+        "id": "q6cip9e38",
+        "fullName": "Annapoorna",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": -1119.55185547571,
+        "y": -201.48049610163125
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "5rusfp7gz",
+      "type": "familyMember",
+      "data": {
+        "label": "Nagaraju",
+        "id": "5rusfp7gz",
+        "fullName": "Narasimha Rao Adapa",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": -512.3095032382612,
+        "y": -335.4104463167753
+      },
+      "measured": {
+        "width": 247,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "8a8qqgzut",
+      "type": "familyMember",
+      "data": {
+        "label": "Saiamma",
+        "id": "8a8qqgzut",
+        "fullName": "Sayamma",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": -172.7350858672479,
+        "y": -342.61010290934865
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "84nfxxkla",
+      "type": "familyMember",
+      "data": {
+        "label": "Syamala",
+        "id": "84nfxxkla",
+        "fullName": "Syamala",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 4131.7521885072,
+        "y": 238.014103115335
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "abv8bwe9v",
+      "type": "familyMember",
+      "data": {
+        "label": "Chaitanya Vinnakota",
+        "id": "abv8bwe9v",
+        "fullName": "Chaitanya Vinnakota",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 4092.3797571583564,
+        "y": 373.2171937821744
+      },
+      "measured": {
+        "width": 238,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "bcwvd5f3j",
+      "type": "familyMember",
+      "data": {
+        "label": "Siva Vinnakota",
+        "id": "bcwvd5f3j",
+        "fullName": "Siva Vinnakota",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 4171.575979676664,
+        "y": 508.57073772255427
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "6djo028jx",
+      "type": "familyMember",
+      "data": {
+        "label": "Shanmukh Vinnakota",
+        "id": "6djo028jx",
+        "fullName": "Shanmukh Vinnakota",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 4050.6217489214314,
+        "y": 639.6044877073903
+      },
+      "measured": {
+        "width": 242,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "kfyki4z2o",
+      "type": "familyMember",
+      "data": {
+        "label": "Jagadeesh Vinnakota",
+        "id": "kfyki4z2o",
+        "fullName": "Jagadeesh Vinnakota",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 4152.856872535974,
+        "y": 780.7177569218288
+      },
+      "measured": {
+        "width": 244,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "itg6ljynj",
+      "type": "familyMember",
+      "data": {
+        "label": "Jyothi",
+        "id": "itg6ljynj",
+        "fullName": "Jyothi",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 4450.042606729498,
+        "y": 239.20069137645206
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "vbqs64p32",
+      "type": "familyMember",
+      "data": {
+        "label": "Rani Vinnakota",
+        "id": "vbqs64p32",
+        "fullName": "Rani Vinnakota",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 4417.86983197323,
+        "y": 375.8437133618061
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "6xw78brkq",
+      "type": "familyMember",
+      "data": {
+        "label": "Krishna Kiran Vinnakota",
+        "id": "6xw78brkq",
+        "fullName": "Krishna Kiran Vinnakota",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 4435.149007795406,
+        "y": 518.3969138947595
+      },
+      "measured": {
+        "width": 261,
+        "height": 112
+      },
+      "selected": true,
+      "dragging": false
+    },
+    {
+      "id": "iab487x34",
+      "type": "familyMember",
+      "data": {
+        "label": "Bhavya Adapa",
+        "id": "iab487x34",
+        "fullName": "Bhavya Rajeswari Adapa",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 878.7972433646391,
+        "y": 818.6834123171809
+      },
+      "measured": {
+        "width": 264,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "0tjfjvz4o",
+      "type": "familyMember",
+      "data": {
+        "label": "Chinni",
+        "id": "0tjfjvz4o",
+        "fullName": "Chinni",
+        "birthDate": "",
+        "biography": "",
+        "deathDate": "2009-08-15"
+      },
+      "position": {
+        "x": 1809.315376044516,
+        "y": 592.5543348433021
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "7k5my5dj2",
+      "type": "familyMember",
+      "data": {
+        "label": "Ujjwala",
+        "id": "7k5my5dj2",
+        "fullName": "Ujjwala",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 2346.291951009786,
+        "y": 785.0517412625194
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "ypv8t5arb",
+      "type": "familyMember",
+      "data": {
+        "label": "Naveena Uppu",
+        "id": "ypv8t5arb",
+        "fullName": "Naveena Uppu",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 2099.9239355099326,
+        "y": 881.3549745796637
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "lt66go87f",
+      "type": "familyMember",
+      "data": {
+        "label": "Rajeswari Nakka",
+        "id": "lt66go87f",
+        "fullName": "Rajeswari Nakka",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 2535.6595437724764,
+        "y": 427.5903137942412
+      },
+      "measured": {
+        "width": 209,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "nxssz9pkq",
+      "type": "familyMember",
+      "data": {
+        "label": "Satyanarayana Marri",
+        "id": "nxssz9pkq",
+        "fullName": "Satyanarayana Marri",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 2827.0199558613886,
+        "y": 423.27051983869717
+      },
+      "measured": {
+        "width": 238,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "xxyqlz7m5",
+      "type": "familyMember",
+      "data": {
+        "label": "Niharika Marri",
+        "id": "xxyqlz7m5",
+        "fullName": "Niharika Marri",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 2821.26023058733,
+        "y": 578.6326489647421
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "idq78l7e6",
+      "type": "familyMember",
+      "data": {
+        "label": "Sri Harsha Marri",
+        "id": "idq78l7e6",
+        "fullName": "Sri Harsha Marri",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 2873.0977580538583,
+        "y": 726.9455747717542
+      },
+      "measured": {
+        "width": 208,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "dxlzxc9v4",
+      "type": "familyMember",
+      "data": {
+        "label": "Krishanya Sai Nakka",
+        "id": "dxlzxc9v4",
+        "fullName": "Krishanya Sai Nakka",
+        "birthDate": "2024-02-20",
+        "biography": ""
+      },
+      "position": {
+        "x": 1371.2734852321787,
+        "y": 715.3595109249216
+      },
+      "measured": {
+        "width": 236,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "8ma68udd1",
+      "type": "familyMember",
+      "data": {
+        "label": "Aswini",
+        "id": "8ma68udd1",
+        "fullName": "Aswini",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 2886.5514256694373,
+        "y": 869.4987753047076
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "j8t8imamm",
+      "type": "familyMember",
+      "data": {
+        "label": "Anvi Marri",
+        "id": "j8t8imamm",
+        "fullName": "Anvi Marri",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 2860.138376187226,
+        "y": 997.5022093789736
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "azmsvyx6y",
+      "type": "familyMember",
+      "data": {
+        "label": "Devi Vinnakota",
+        "id": "azmsvyx6y",
+        "fullName": "Devi Vinnakota",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 4910.703967954327,
+        "y": 365.9743841024574
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "9agirqkaj",
+      "type": "familyMember",
+      "data": {
+        "label": "Vinayaka Vinnakota",
+        "id": "9agirqkaj",
+        "fullName": "Vinayaka Vinnakota",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 4949.582113554223,
+        "y": 502.76785936135207
+      },
+      "measured": {
+        "width": 231,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "2qq9gowcc",
+      "type": "familyMember",
+      "data": {
+        "label": "Pedda Attayya",
+        "id": "2qq9gowcc",
+        "fullName": "Pedda Attayya",
+        "birthDate": "",
+        "biography": ""
+      },
+      "position": {
+        "x": 4937.117017436538,
+        "y": 240.85081266522076
+      },
+      "measured": {
+        "width": 200,
+        "height": 112
+      },
+      "selected": false,
+      "dragging": false
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-1-olqn9h1d0",
+      "source": "1",
+      "target": "olqn9h1d0",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-1-4b7bih1it",
+      "source": "1",
+      "target": "4b7bih1it",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-1-ftafqvwii",
+      "source": "ftafqvwii",
+      "target": "1",
+      "label": "parent",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-3f0u2x1hp-p34i2aogu",
+      "source": "p34i2aogu",
+      "target": "3f0u2x1hp",
+      "label": "parent",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "selected": false
+    },
+    {
+      "id": "e-p34i2aogu-27suizmjn",
+      "source": "p34i2aogu",
+      "target": "27suizmjn",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "partner",
+      "animated": true,
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#ec4899",
+        "strokeDasharray": "6 4"
+      },
+      "selected": false
+    },
+    {
+      "id": "e-3f0u2x1hp-bvxd767id",
+      "source": "p34i2aogu",
+      "target": "bvxd767id",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-1-i0kxo1h1k",
+      "source": "ftafqvwii",
+      "target": "i0kxo1h1k",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-i0kxo1h1k-fqmdqgilt",
+      "source": "ftafqvwii",
+      "target": "fqmdqgilt",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-fqmdqgilt-a7hqvjcox",
+      "source": "fqmdqgilt",
+      "target": "a7hqvjcox",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "partner",
+      "animated": true,
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#ec4899",
+        "strokeDasharray": "6 4"
+      }
+    },
+    {
+      "id": "e-fqmdqgilt-9vyztbkh8",
+      "source": "fqmdqgilt",
+      "target": "9vyztbkh8",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-fqmdqgilt-ju7tms0sa",
+      "source": "fqmdqgilt",
+      "target": "ju7tms0sa",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "selected": false
+    },
+    {
+      "id": "e-i0kxo1h1k-ls9layekr",
+      "source": "i0kxo1h1k",
+      "target": "ls9layekr",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "partner",
+      "animated": true,
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#ec4899",
+        "strokeDasharray": "6 4"
+      }
+    },
+    {
+      "id": "e-i0kxo1h1k-xqbxsb71i",
+      "source": "i0kxo1h1k",
+      "target": "xqbxsb71i",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-i0kxo1h1k-ur01h4sfe",
+      "source": "i0kxo1h1k",
+      "target": "ur01h4sfe",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-r6x2b7618-vkbsm60pf",
+      "source": "vkbsm60pf",
+      "target": "r6x2b7618",
+      "label": "parent",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-vkbsm60pf-55ihoucwz",
+      "source": "vkbsm60pf",
+      "target": "55ihoucwz",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "partner",
+      "animated": true,
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#ec4899",
+        "strokeDasharray": "6 4"
+      }
+    },
+    {
+      "id": "e-p34i2aogu-k8rs4at59",
+      "source": "k8rs4at59",
+      "target": "p34i2aogu",
+      "label": "parent",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-k8rs4at59-dce9d38gs",
+      "source": "k8rs4at59",
+      "target": "dce9d38gs",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "partner",
+      "animated": true,
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#ec4899",
+        "strokeDasharray": "6 4"
+      }
+    },
+    {
+      "id": "e-k8rs4at59-rwmnwhtw7",
+      "source": "k8rs4at59",
+      "target": "rwmnwhtw7",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-rwmnwhtw7-z7lqwcafk",
+      "source": "rwmnwhtw7",
+      "target": "z7lqwcafk",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-rwmnwhtw7-1askdfrhv",
+      "source": "rwmnwhtw7",
+      "target": "1askdfrhv",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-rwmnwhtw7-znzi5fmk4",
+      "source": "rwmnwhtw7",
+      "target": "znzi5fmk4",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "partner",
+      "animated": true,
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#ec4899",
+        "strokeDasharray": "6 4"
+      }
+    },
+    {
+      "id": "e-27suizmjn-n238c9anj",
+      "source": "n238c9anj",
+      "target": "27suizmjn",
+      "label": "parent",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-n238c9anj-h0g5804ny",
+      "source": "n238c9anj",
+      "target": "h0g5804ny",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "partner",
+      "animated": true,
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#ec4899",
+        "strokeDasharray": "6 4"
+      }
+    },
+    {
+      "id": "e-27suizmjn-5u1adagrx",
+      "source": "n238c9anj",
+      "target": "5u1adagrx",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-n238c9anj-melvgoyvc",
+      "source": "n238c9anj",
+      "target": "melvgoyvc",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-n238c9anj-oduif7lxu",
+      "source": "n238c9anj",
+      "target": "oduif7lxu",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-vkbsm60pf-yuwvyrnlk",
+      "source": "vkbsm60pf",
+      "target": "yuwvyrnlk",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-vkbsm60pf-050ob35ak",
+      "source": "vkbsm60pf",
+      "target": "050ob35ak",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-vkbsm60pf-8w33xidyq",
+      "source": "vkbsm60pf",
+      "target": "8w33xidyq",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-vkbsm60pf-c9vzbez6j",
+      "source": "vkbsm60pf",
+      "target": "c9vzbez6j",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-vkbsm60pf-tb99803ke",
+      "source": "vkbsm60pf",
+      "target": "tb99803ke",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-vkbsm60pf-pd8gejhp2",
+      "source": "vkbsm60pf",
+      "target": "pd8gejhp2",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-yuwvyrnlk-7yqkc22om",
+      "source": "yuwvyrnlk",
+      "target": "7yqkc22om",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "partner",
+      "animated": true,
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#ec4899",
+        "strokeDasharray": "6 4"
+      }
+    },
+    {
+      "id": "e-7yqkc22om-ahxfsw10x",
+      "source": "7yqkc22om",
+      "target": "ahxfsw10x",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-7yqkc22om-zi3plaove",
+      "source": "7yqkc22om",
+      "target": "zi3plaove",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-7yqkc22om-atavhk9ss",
+      "source": "7yqkc22om",
+      "target": "atavhk9ss",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-ahxfsw10x-4vopszsc6",
+      "source": "ahxfsw10x",
+      "target": "4vopszsc6",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "partner",
+      "animated": true,
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#ec4899",
+        "strokeDasharray": "6 4"
+      }
+    },
+    {
+      "id": "e-zi3plaove-kd6w220o5",
+      "source": "kd6w220o5",
+      "target": "zi3plaove",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "partner",
+      "animated": true,
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#ec4899",
+        "strokeDasharray": "6 4"
+      }
+    },
+    {
+      "id": "e-atavhk9ss-ozrcgboja",
+      "source": "atavhk9ss",
+      "target": "ozrcgboja",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "partner",
+      "animated": true,
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#ec4899",
+        "strokeDasharray": "6 4"
+      }
+    },
+    {
+      "id": "e-ahxfsw10x-4jk802rm6",
+      "source": "ahxfsw10x",
+      "target": "4jk802rm6",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-zi3plaove-0ddo31kek",
+      "source": "zi3plaove",
+      "target": "0ddo31kek",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-ahxfsw10x-so9vxmnoh",
+      "source": "ahxfsw10x",
+      "target": "so9vxmnoh",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-zi3plaove-997xfs9gy",
+      "source": "zi3plaove",
+      "target": "997xfs9gy",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-atavhk9ss-f46rgypah",
+      "source": "atavhk9ss",
+      "target": "f46rgypah",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-atavhk9ss-bifhvtfa4",
+      "source": "atavhk9ss",
+      "target": "bifhvtfa4",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-5u1adagrx-b16o6nq57",
+      "source": "5u1adagrx",
+      "target": "b16o6nq57",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "partner",
+      "animated": true,
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#ec4899",
+        "strokeDasharray": "6 4"
+      }
+    },
+    {
+      "id": "e-melvgoyvc-xicrxq8ti",
+      "source": "melvgoyvc",
+      "target": "xicrxq8ti",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "partner",
+      "animated": true,
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#ec4899",
+        "strokeDasharray": "6 4"
+      }
+    },
+    {
+      "id": "e-melvgoyvc-au81udpm6",
+      "source": "melvgoyvc",
+      "target": "au81udpm6",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "partner",
+      "animated": true,
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#ec4899",
+        "strokeDasharray": "6 4"
+      },
+      "selected": false
+    },
+    {
+      "id": "e-5u1adagrx-822m9469p",
+      "source": "5u1adagrx",
+      "target": "822m9469p",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-5u1adagrx-3h44qu6s3",
+      "source": "5u1adagrx",
+      "target": "3h44qu6s3",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      },
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "e-3f0u2x1hp-olqn9h1d0-partner",
+      "source": "3f0u2x1hp",
+      "target": "olqn9h1d0",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "partner",
+      "animated": true,
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#ec4899",
+        "strokeDasharray": "6 4"
+      }
+    },
+    {
+      "id": "e-1-r6x2b7618-partner",
+      "source": "1",
+      "target": "r6x2b7618",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "partner",
+      "animated": true,
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#ec4899",
+        "strokeDasharray": "6 4"
+      }
+    },
+    {
+      "id": "e-ftafqvwii-es55uacuj-partner",
+      "source": "ftafqvwii",
+      "target": "es55uacuj",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "partner",
+      "animated": true,
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#ec4899",
+        "strokeDasharray": "6 4"
+      }
+    },
+    {
+      "id": "e-5u1adagrx-fm88zcmo4",
+      "source": "5u1adagrx",
+      "target": "fm88zcmo4",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      }
+    },
+    {
+      "id": "e-5u1adagrx-cgvf1kpu2",
+      "source": "5u1adagrx",
+      "target": "cgvf1kpu2",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      }
+    },
+    {
+      "id": "e-melvgoyvc-ccyot7qk4",
+      "source": "melvgoyvc",
+      "target": "ccyot7qk4",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      }
+    },
+    {
+      "id": "e-melvgoyvc-izr680nrs",
+      "source": "melvgoyvc",
+      "target": "izr680nrs",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      }
+    },
+    {
+      "id": "e-n238c9anj-ejo8yu5pg",
+      "source": "ejo8yu5pg",
+      "target": "n238c9anj",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "label": "parent",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      }
+    },
+    {
+      "id": "e-k8rs4at59-o95s9a5ki",
+      "source": "o95s9a5ki",
+      "target": "k8rs4at59",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "label": "parent",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      }
+    },
+    {
+      "id": "e-o95s9a5ki-q6cip9e38",
+      "source": "o95s9a5ki",
+      "target": "q6cip9e38",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "partner",
+      "animated": true,
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#ec4899",
+        "strokeDasharray": "6 4"
+      }
+    },
+    {
+      "id": "e-dce9d38gs-5rusfp7gz",
+      "source": "5rusfp7gz",
+      "target": "dce9d38gs",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "label": "parent",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      }
+    },
+    {
+      "id": "e-5rusfp7gz-8a8qqgzut",
+      "source": "5rusfp7gz",
+      "target": "8a8qqgzut",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "partner",
+      "animated": true,
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#ec4899",
+        "strokeDasharray": "6 4"
+      }
+    },
+    {
+      "id": "e-8w33xidyq-84nfxxkla",
+      "source": "8w33xidyq",
+      "target": "84nfxxkla",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "partner",
+      "animated": true,
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#ec4899",
+        "strokeDasharray": "6 4"
+      }
+    },
+    {
+      "id": "e-8w33xidyq-abv8bwe9v",
+      "source": "8w33xidyq",
+      "target": "abv8bwe9v",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      }
+    },
+    {
+      "id": "e-8w33xidyq-bcwvd5f3j",
+      "source": "8w33xidyq",
+      "target": "bcwvd5f3j",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      }
+    },
+    {
+      "id": "e-8w33xidyq-6djo028jx",
+      "source": "8w33xidyq",
+      "target": "6djo028jx",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      }
+    },
+    {
+      "id": "e-8w33xidyq-kfyki4z2o",
+      "source": "8w33xidyq",
+      "target": "kfyki4z2o",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      }
+    },
+    {
+      "id": "e-c9vzbez6j-itg6ljynj",
+      "source": "c9vzbez6j",
+      "target": "itg6ljynj",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "partner",
+      "animated": true,
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#ec4899",
+        "strokeDasharray": "6 4"
+      }
+    },
+    {
+      "id": "e-c9vzbez6j-vbqs64p32",
+      "source": "c9vzbez6j",
+      "target": "vbqs64p32",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      }
+    },
+    {
+      "id": "e-c9vzbez6j-6xw78brkq",
+      "source": "c9vzbez6j",
+      "target": "6xw78brkq",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      }
+    },
+    {
+      "id": "e-melvgoyvc-iab487x34",
+      "source": "melvgoyvc",
+      "target": "iab487x34",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      }
+    },
+    {
+      "id": "e-i0kxo1h1k-0tjfjvz4o",
+      "source": "i0kxo1h1k",
+      "target": "0tjfjvz4o",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "partner",
+      "animated": true,
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#ec4899",
+        "strokeDasharray": "6 4"
+      }
+    },
+    {
+      "id": "e-ju7tms0sa-7k5my5dj2",
+      "source": "ju7tms0sa",
+      "target": "7k5my5dj2",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      }
+    },
+    {
+      "id": "e-9vyztbkh8-ypv8t5arb",
+      "source": "9vyztbkh8",
+      "target": "ypv8t5arb",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "partner",
+      "animated": true,
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#ec4899",
+        "strokeDasharray": "6 4"
+      }
+    },
+    {
+      "id": "e-ftafqvwii-lt66go87f",
+      "source": "ftafqvwii",
+      "target": "lt66go87f",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      }
+    },
+    {
+      "id": "e-lt66go87f-nxssz9pkq",
+      "source": "lt66go87f",
+      "target": "nxssz9pkq",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "partner",
+      "animated": true,
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#ec4899",
+        "strokeDasharray": "6 4"
+      }
+    },
+    {
+      "id": "e-nxssz9pkq-xxyqlz7m5",
+      "source": "nxssz9pkq",
+      "target": "xxyqlz7m5",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      }
+    },
+    {
+      "id": "e-nxssz9pkq-idq78l7e6",
+      "source": "nxssz9pkq",
+      "target": "idq78l7e6",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      }
+    },
+    {
+      "id": "e-olqn9h1d0-dxlzxc9v4",
+      "source": "olqn9h1d0",
+      "target": "dxlzxc9v4",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      }
+    },
+    {
+      "id": "e-idq78l7e6-8ma68udd1",
+      "source": "idq78l7e6",
+      "target": "8ma68udd1",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "partner",
+      "animated": true,
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#ec4899",
+        "strokeDasharray": "6 4"
+      }
+    },
+    {
+      "id": "e-idq78l7e6-j8t8imamm",
+      "source": "idq78l7e6",
+      "target": "j8t8imamm",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      }
+    },
+    {
+      "id": "e-pd8gejhp2-azmsvyx6y",
+      "source": "pd8gejhp2",
+      "target": "azmsvyx6y",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      }
+    },
+    {
+      "id": "e-pd8gejhp2-9agirqkaj",
+      "source": "pd8gejhp2",
+      "target": "9agirqkaj",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "label": "child",
+      "animated": true,
+      "type": "default",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#3b82f6"
+      }
+    },
+    {
+      "id": "e-pd8gejhp2-2qq9gowcc",
+      "source": "pd8gejhp2",
+      "target": "2qq9gowcc",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "partner",
+      "animated": true,
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#ec4899",
+        "strokeDasharray": "6 4"
+      }
+    }
+  ],
+  "members": [
+    {
+      "id": "1",
+      "fullName": "NMM Naga Raju",
+      "birthDate": "1964-04-07",
+      "biography": "The patriarch of the family."
+    },
+    {
+      "id": "olqn9h1d0",
+      "fullName": "Chaitanya Nakka",
+      "birthDate": "1993-03-24",
+      "biography": ""
+    },
+    {
+      "id": "4b7bih1it",
+      "fullName": "Saroja Nakka",
+      "birthDate": "2000-02-14",
+      "biography": ""
+    },
+    {
+      "id": "r6x2b7618",
+      "fullName": "Rama Rani Vinnakota",
+      "birthDate": "1964-10-24",
+      "biography": ""
+    },
+    {
+      "id": "3f0u2x1hp",
+      "fullName": "Lakshmi Sowjanya Malisetti",
+      "birthDate": "1997-09-05",
+      "biography": ""
+    },
+    {
+      "id": "ftafqvwii",
+      "fullName": "Nageswara Rano Nakka",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "es55uacuj",
+      "fullName": "Sarojini Nakka",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "p34i2aogu",
+      "fullName": "Satyanarayana Malisetti",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "27suizmjn",
+      "fullName": "Ganga Malisetti",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "bvxd767id",
+      "fullName": "Vyshnavi Malisetti",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "i0kxo1h1k",
+      "fullName": "Venkatrao Nakka",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "fqmdqgilt",
+      "fullName": "Surya Narayana Nakka",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "a7hqvjcox",
+      "fullName": "Padma Nakka",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "9vyztbkh8",
+      "fullName": "Vamsi Nakka",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "ju7tms0sa",
+      "fullName": "Viswaja Nakka",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "ls9layekr",
+      "fullName": "Devi",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "xqbxsb71i",
+      "fullName": "Nagarjuna Nakka",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "ur01h4sfe",
+      "fullName": "Tejaswini Nakka",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "vkbsm60pf",
+      "fullName": "Balakrishna Vinnakota",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "55ihoucwz",
+      "fullName": "Varalakshmi Vinnakota",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "k8rs4at59",
+      "fullName": "Narasimha Rao Malisetti",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "dce9d38gs",
+      "fullName": "Sarojini Malisetti Adapa",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "rwmnwhtw7",
+      "fullName": "Krishna Rao Malisetti",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "z7lqwcafk",
+      "fullName": "Chandasekhar Malisetti",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "1askdfrhv",
+      "fullName": "Sri Lekha Malisetti",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "znzi5fmk4",
+      "fullName": "Sarojini Malisetti Thota",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "n238c9anj",
+      "fullName": "Krishna Rao Adapa",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "h0g5804ny",
+      "fullName": "Lakshmikantham Giri",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "nche3ki39",
+      "fullName": "Jamalayya Adapa",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "5u1adagrx",
+      "fullName": "Jamalayya Adapa",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "melvgoyvc",
+      "fullName": "Basava Maheswararao Adapa",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "oduif7lxu",
+      "fullName": "Bala Raju Adapa",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "yuwvyrnlk",
+      "fullName": "Baby Rani Vinnakota",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "050ob35ak",
+      "fullName": "Radha Rani Vinnakota",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "8w33xidyq",
+      "fullName": "Madhusudhan Rao Vinnakota",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "c9vzbez6j",
+      "fullName": "Nanaji Vinnakota",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "tb99803ke",
+      "fullName": "Ramu Vinnakota",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "pd8gejhp2",
+      "fullName": "Pedda Mavayya",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "7yqkc22om",
+      "fullName": "Kasi Visweswara Rao Chikkala",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "ahxfsw10x",
+      "fullName": "Raghu Chikkala",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "zi3plaove",
+      "fullName": "Sagar Chikkala",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "atavhk9ss",
+      "fullName": "Srinivas Chikkala",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "4vopszsc6",
+      "fullName": "Padma Pothula",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "kd6w220o5",
+      "fullName": "AnuRadha Melam",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "ozrcgboja",
+      "fullName": "Bharati",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "4jk802rm6",
+      "fullName": "Viswa Chikkala",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "zpupjl5l0",
+      "fullName": "Bhavyana Shreya Chikkala",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "0ddo31kek",
+      "fullName": "Bharati Chikkala",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "so9vxmnoh",
+      "fullName": "Bhavyana Chikkala",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "997xfs9gy",
+      "fullName": "Vishal Chikkala",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "f46rgypah",
+      "fullName": "Viswa Chikkala",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "bifhvtfa4",
+      "fullName": "Ayyappa Chikkala",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "b16o6nq57",
+      "fullName": "Nagulu Velugu",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "xicrxq8ti",
+      "fullName": "Rajeswari Velugu",
+      "birthDate": "",
+      "biography": "",
+      "deathDate": "2026-08-17"
+    },
+    {
+      "id": "au81udpm6",
+      "fullName": "Uma Yerra",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "kfe7vegev",
+      "fullName": "Bala Kumari Adapa",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "822m9469p",
+      "fullName": "Balakumari Adapa",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "3h44qu6s3",
+      "fullName": "Rajini Adapa",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "fm88zcmo4",
+      "fullName": "Leela Kumari Adapa",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "cgvf1kpu2",
+      "fullName": "Durga Rao Adapa",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "ccyot7qk4",
+      "fullName": "Bala Kiran Adapa",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "izr680nrs",
+      "fullName": "Krishnababu Adapa",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "ejo8yu5pg",
+      "fullName": "Ganga Guntupalli",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "o95s9a5ki",
+      "fullName": "Nagayya Malisetti",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "q6cip9e38",
+      "fullName": "Annapoorna",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "5rusfp7gz",
+      "fullName": "Narasimha Rao Adapa",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "8a8qqgzut",
+      "fullName": "Sayamma",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "6hjyiymgz",
+      "fullName": "Syamala",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "84nfxxkla",
+      "fullName": "Syamala",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "abv8bwe9v",
+      "fullName": "Chaitanya Vinnakota",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "bcwvd5f3j",
+      "fullName": "Siva Vinnakota",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "t3sfscd0p",
+      "fullName": "Shanmukh Vinnakota",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "6djo028jx",
+      "fullName": "Shanmukh Vinnakota",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "kfyki4z2o",
+      "fullName": "Jagadeesh Vinnakota",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "itg6ljynj",
+      "fullName": "Jyothi",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "vbqs64p32",
+      "fullName": "Rani Vinnakota",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "6xw78brkq",
+      "fullName": "Krishna Kiran Vinnakota",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "iab487x34",
+      "fullName": "Bhavya Rajeswari Adapa",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "0tjfjvz4o",
+      "fullName": "Chinni",
+      "birthDate": "",
+      "biography": "",
+      "deathDate": "2009-08-15"
+    },
+    {
+      "id": "7k5my5dj2",
+      "fullName": "Ujjwala",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "ypv8t5arb",
+      "fullName": "Naveena Uppu",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "lt66go87f",
+      "fullName": "Rajeswari Nakka",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "nxssz9pkq",
+      "fullName": "Satyanarayana Marri",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "xxyqlz7m5",
+      "fullName": "Niharika Marri",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "idq78l7e6",
+      "fullName": "Sri Harsha Marri",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "dxlzxc9v4",
+      "fullName": "Krishanya Sai Nakka",
+      "birthDate": "2024-02-20",
+      "biography": ""
+    },
+    {
+      "id": "x8o35inmg",
+      "fullName": "Aswini",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "8ma68udd1",
+      "fullName": "Aswini",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "j8t8imamm",
+      "fullName": "Anvi Marri",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "azmsvyx6y",
+      "fullName": "Devi Vinnakota",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "9agirqkaj",
+      "fullName": "Vinayaka Vinnakota",
+      "birthDate": "",
+      "biography": ""
+    },
+    {
+      "id": "2qq9gowcc",
+      "fullName": "Pedda Attayya",
+      "birthDate": "",
+      "biography": ""
+    }
+  ]
+}
