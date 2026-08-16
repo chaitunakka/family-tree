@@ -44,6 +44,8 @@ export function normalizeEdge(edge: Edge): Edge {
   return {
     ...edge,
     type: edge.type ?? 'default',
+    sourceHandle: edge.sourceHandle ?? 'bottom',
+    targetHandle: edge.targetHandle ?? 'top',
     markerEnd: edge.markerEnd ?? { type: MarkerType.ArrowClosed },
     style: {
       ...FAMILY_EDGE_STYLE,
@@ -84,6 +86,8 @@ export function createFamilyEdge(
     id,
     source,
     target,
+    sourceHandle: 'bottom',
+    targetHandle: 'top',
     label,
     animated: true,
     type: 'default',

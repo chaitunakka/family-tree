@@ -1,4 +1,4 @@
-import React, { useCallback, useState, useMemo } from 'react';
+import React, { useCallback, useEffect, useState, useMemo } from 'react';
 import { 
   ReactFlow, 
   Background, 
@@ -37,6 +37,10 @@ function App() {
     toggleDarkMode,
     members
   } = useTreeStore();
+
+  useEffect(() => {
+    document.documentElement.classList.toggle('dark', darkMode);
+  }, [darkMode]);
 
   const [isRelationModalOpen, setIsRelationModalOpen] = useState(false);
   const [isConnectModalOpen, setIsConnectModalOpen] = useState(false);
@@ -173,6 +177,8 @@ function App() {
             return darkMode ? '#1e293b' : '#e2e8f0';
           }}
           maskColor={darkMode ? 'rgba(0,0,0,0.5)' : 'rgba(255,255,255,0.5)'}
+          pannable={true}
+          zoomable={true}
         />
         
         <Panel position="top-right" className="flex flex-col gap-2">

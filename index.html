@@ -5,6 +5,14 @@
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>familty-tree</title>
+    <script>
+      try {
+        const stored = JSON.parse(localStorage.getItem('family-tree-storage') || '{}');
+        if (stored.state && stored.state.darkMode) {
+          document.documentElement.classList.add('dark');
+        }
+      } catch (_) {}
+    </script>
   </head>
   <body>
     <div id="root"></div>

@@ -7,6 +7,7 @@ import {
   createPartnerEdge,
   normalizeEdge,
 } from './utils/edgeStyles';
+import { syncAllEdgeHandles, syncEdgeHandles } from './utils/syncEdgeHandles';
 import {
   createRelationEdge,
   edgeAlreadyExists,
@@ -78,7 +79,7 @@ export const useTreeStore = create<TreeStore>()(
       },
 
       connectMembers: (connection, relationType) => {
-        const { edges } = get();
+        const { edges, nodes } = get();
         const newEdge = createRelationEdge(
           relationType,
           connection.source,
@@ -94,7 +95,7 @@ export const useTreeStore = create<TreeStore>()(
           return false;
         }
 
-        set({ edges: [...edges, newEdge] });
+        set({ edges: [...edges, syncEdgeHandles(normalizeEdge(newEdge), nodes)] });
         return true;
       },
 
@@ -117,8 +118,6 @@ export const useTreeStore = create<TreeStore>()(
                 position = { x: targetNode.position.x + 300, y: targetNode.position.y };
                 break;
               case 'sibling':
-                // For siblings, we should ideally find the parent and add as child,
-                // but for now we just place them horizontally.
                 position = { x: targetNode.position.x - 300, y: targetNode.position.y };
                 break;
             }
@@ -162,7 +161,7 @@ export const useTreeStore = create<TreeStore>()(
         set({
           members: [...members, member],
           nodes: [...nodes, newNode],
-          edges: newEdges,
+          edges: syncAllEdgeHandles(newEdges.map(normalizeEdge), [...nodes, newNode]),
         });
       },
 
@@ -180,7 +179,7 @@ export const useTreeStore = create<TreeStore>()(
       importTreeData: (data) => {
         set({
           nodes: data.nodes,
-          edges: data.edges.map(normalizeEdge),
+          edges: syncAllEdgeHandles(data.edges.map(normalizeEdge), data.nodes),
           members: data.members,
         });
       },
@@ -190,26 +189,27 @@ export const useTreeStore = create<TreeStore>()(
         const { nodes: layoutedNodes, edges: layoutedEdges } = getLayoutedElements(nodes, edges);
         set({
           nodes: layoutedNodes,
-          edges: layoutedEdges.map(normalizeEdge),
+          edges: layoutedEdges,
         });
       },
 
       toggleDarkMode: () => {
-        const newDarkMode = !get().darkMode;
-        if (newDarkMode) {
-          document.documentElement.classList.add('dark');
-        } else {
-          document.documentElement.classList.remove('dark');
-        }
-        set({ darkMode: newDarkMode });
+        set({ darkMode: !get().darkMode });
       },
     }),
     {
       name: 'family-tree-storage',
       storage: createJSONStorage(() => localStorage),
       onRehydrateStorage: () => (state) => {
-        if (state) {
-          state.edges = state.edges.map(normalizeEdge);
+        if (!state) return;
+        try {
+          state.edges = syncAllEdgeHandles(
+            (state.edges ?? []).map(normalizeEdge),
+            state.nodes ?? [],
+          );
+        } catch (error) {
+          console.error('Failed to restore saved family tree edges:', error);
+          state.edges = [];
         }
       },
     }

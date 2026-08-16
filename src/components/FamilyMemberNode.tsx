@@ -23,15 +23,15 @@ const FamilyMemberNode = ({ data }: { data: FamilyMemberNodeData }) => {
     >
       {deceased && (
         <div
-          className="absolute -top-2 -right-2 w-6 h-6 rounded-full bg-slate-200 dark:bg-slate-700 border border-slate-300 dark:border-slate-600 flex items-center justify-center shadow-sm"
+          className="absolute top-1.5 right-1.5 w-6 h-6 rounded-full bg-slate-200 dark:bg-slate-700 border border-slate-300 dark:border-slate-600 flex items-center justify-center shadow-sm"
           title="Deceased"
         >
           <Flower2 className="w-3.5 h-3.5 text-slate-500 dark:text-slate-400" />
         </div>
       )}
 
-      <Handle type="target" position={Position.Top} className="w-3 h-3 bg-blue-500" />
-      <Handle type="source" position={Position.Bottom} className="w-3 h-3 bg-blue-500" />
+      <Handle type="target" position={Position.Top} id="top" className="w-3 h-3 bg-blue-500" />
+      <Handle type="source" position={Position.Bottom} id="bottom" className="w-3 h-3 bg-blue-500" />
 
       <Handle type="source" position={Position.Right} id="right" className="w-3 h-3 bg-pink-500 !top-1/2 -translate-y-1/2" />
       <Handle type="target" position={Position.Left} id="left" className="w-3 h-3 bg-pink-500 !top-1/2 -translate-y-1/2" />

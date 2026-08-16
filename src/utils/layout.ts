@@ -1,6 +1,6 @@
 import dagre from 'dagre';
 import { type Node, type Edge, Position } from '@xyflow/react';
-import { PARTNER_EDGE_STYLE } from './edgeStyles';
+import { syncAllEdgeHandles } from './syncEdgeHandles';
 
 const nodeWidth = 250;
 const nodeHeight = 150;
@@ -10,11 +10,11 @@ export const getLayoutedElements = (nodes: Node[], edges: Edge[], direction: 'TB
   const dagreGraph = new dagre.graphlib.Graph();
   dagreGraph.setDefaultEdgeLabel(() => ({}));
 
-  dagreGraph.setGraph({ 
-    rankdir: direction, 
-    ranksep: 150, 
+  dagreGraph.setGraph({
+    rankdir: direction,
+    ranksep: 150,
     nodesep: 250,
-    ranker: 'network-simplex'
+    ranker: 'network-simplex',
   });
 
   nodes.forEach((node) => {
@@ -33,8 +33,7 @@ export const getLayoutedElements = (nodes: Node[], edges: Edge[], direction: 'TB
 
   const layoutedNodes = nodes.map((node) => {
     const nodeWithPosition = dagreGraph.node(node.id);
-    
-    // Update handle positions based on layout direction
+
     const targetPosition = isHorizontal ? Position.Left : Position.Top;
     const sourcePosition = isHorizontal ? Position.Right : Position.Bottom;
 
@@ -49,18 +48,16 @@ export const getLayoutedElements = (nodes: Node[], edges: Edge[], direction: 'TB
     };
   });
 
-  // Force partner alignment
-  edges.forEach(edge => {
+  edges.forEach((edge) => {
     if (edge.label === 'partner') {
-      const sourceNode = layoutedNodes.find(n => n.id === edge.source);
-      const targetNode = layoutedNodes.find(n => n.id === edge.target);
+      const sourceNode = layoutedNodes.find((n) => n.id === edge.source);
+      const targetNode = layoutedNodes.find((n) => n.id === edge.target);
       if (sourceNode && targetNode) {
         if (isHorizontal) {
-          // In horizontal layout, partners should be on the same X (vertical alignment)
           const avgX = (sourceNode.position.x + targetNode.position.x) / 2;
           sourceNode.position.x = avgX;
           targetNode.position.x = avgX;
-          
+
           if (Math.abs(sourceNode.position.y - targetNode.position.y) < 200) {
             if (sourceNode.position.y < targetNode.position.y) {
               targetNode.position.y = sourceNode.position.y + 200;
@@ -69,11 +66,10 @@ export const getLayoutedElements = (nodes: Node[], edges: Edge[], direction: 'TB
             }
           }
         } else {
-          // In vertical layout, partners should be on the same Y (horizontal alignment)
           const avgY = (sourceNode.position.y + targetNode.position.y) / 2;
           sourceNode.position.y = avgY;
           targetNode.position.y = avgY;
-          
+
           if (Math.abs(sourceNode.position.x - targetNode.position.x) < 300) {
             if (sourceNode.position.x < targetNode.position.x) {
               targetNode.position.x = sourceNode.position.x + 300;
@@ -86,24 +82,7 @@ export const getLayoutedElements = (nodes: Node[], edges: Edge[], direction: 'TB
     }
   });
 
-  // Update edges handles and type for the new orientation
-  const layoutedEdges = edges.map(edge => {
-    if (edge.label === 'partner') {
-      return {
-        ...edge,
-        sourceHandle: isHorizontal ? 'bottom' : 'right',
-        targetHandle: isHorizontal ? 'top' : 'left',
-        type: 'smoothstep',
-        style: PARTNER_EDGE_STYLE,
-      };
-    }
-    return {
-      ...edge,
-      sourceHandle: undefined,
-      targetHandle: undefined,
-      type: 'default',
-    };
-  });
+  const layoutedEdges = syncAllEdgeHandles(edges, layoutedNodes);
 
   return { nodes: layoutedNodes, edges: layoutedEdges };
 };
